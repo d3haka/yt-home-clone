@@ -16,8 +16,10 @@ type SmallSidebarItemProps = {
 };
 
 function SmallSidebarItem({ Icon, title, url }: SmallSidebarItemProps) {
-    return <a href="" className="">
-        <Icon className="w-6 h-6"/>
-        <div className="text-sm">{title}</div>
+  return (
+    <a href={url} className="">
+      <Icon className="w-6 h-6" />
+      <div className="text-sm">{title}</div>
     </a>
+  );
 }

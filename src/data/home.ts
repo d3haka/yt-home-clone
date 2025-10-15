@@ -155,15 +155,15 @@ const vidsUnsorted = [
     channel: {
       name: "Kevin Powell",
       id: "KevinPowell",
-      profileUrl: "/public/profiles/kevin-powell.jpg",
+      profileUrl: "/profiles/kevin-powell.jpg",
     },
     views: 11829,
     postedAt: new Date("2025-8-11"),
     duration: 980,
     thumbnailUrl:
-      "/public/thumbnails/A CSS Trick to select a specific row with Grid auto-fit-fill.jpg",
+      "/thumbnails/A CSS Trick to select a specific row with Grid auto-fit-fill.jpg",
     videoUrl:
-      "/public/videos/A CSS Trick to select a specific row with Grid auto-fit-fill.mp4",
+      "/videos/A CSS Trick to select a specific row with Grid auto-fit-fill.mp4",
   },
   {
     //dled//https://www.youtube.com/watch?v=DGOeyJjq80g
@@ -172,13 +172,13 @@ const vidsUnsorted = [
     channel: {
       name: "Kevin Powell",
       id: "KevinPowell",
-      profileUrl: "/public/profiles/kevin-powell.jpg",
+      profileUrl: "/profiles/kevin-powell.jpg",
     },
     views: 85590,
     postedAt: new Date("2024-10-22"),
     duration: 1326,
-    thumbnailUrl: "/public/thumbnails/My top 5 most popular front-end tips.jpg",
-    videoUrl: "/public/videos/My top 5 most popular front-end tips.mp4",
+    thumbnailUrl: "/thumbnails/My top 5 most popular front-end tips.jpg",
+    videoUrl: "/videos/My top 5 most popular front-end tips.mp4",
   },
   {
     //dled//https://www.youtube.com/watch?v=r1IitKbJRFE
@@ -187,15 +187,14 @@ const vidsUnsorted = [
     channel: {
       name: "Kevin Powell",
       id: "KevinPowell",
-      profileUrl: "/public/profiles/kevin-powell.jpg",
+      profileUrl: "/profiles/kevin-powell.jpg",
     },
     views: 66727,
     postedAt: new Date("2023-5-23"),
     duration: 844,
     thumbnailUrl:
-      "/public/thumbnails/Two simple layouts that work better with Grid.jpg",
-    videoUrl:
-      "/public/videos/Two simple layouts that work better with Grid.mp4",
+      "/thumbnails/Two simple layouts that work better with Grid.jpg",
+    videoUrl: "/videos/Two simple layouts that work better with Grid.mp4",
   },
   {
     //dled//https://www.youtube.com/watch?v=rGyGavlg6i4
@@ -204,13 +203,13 @@ const vidsUnsorted = [
     channel: {
       name: "Web Dev Simplified",
       id: "WebDevSimplified",
-      profileUrl: "/public/profiles/web-dev-simplified.jpg",
+      profileUrl: "/profiles/web-dev-simplified.jpg",
     },
     views: 38711,
     postedAt: new Date("2025-9-23"),
     duration: 613,
-    thumbnailUrl: "/public/thumbnails/Most Developers Are Using AI Wrong.jpg",
-    videoUrl: "/public/videos/Most Developers Are Using AI Wrong.mp4",
+    thumbnailUrl: "/thumbnails/Most Developers Are Using AI Wrong.jpg",
+    videoUrl: "/videos/Most Developers Are Using AI Wrong.mp4",
   },
   {
     //dled//https://www.youtube.com/watch?v=pjmMOyRlcUs
@@ -219,13 +218,13 @@ const vidsUnsorted = [
     channel: {
       name: "Web Dev Simplified",
       id: "WebDevSimplified",
-      profileUrl: "/public/profiles/web-dev-simplified.jpg",
+      profileUrl: "/profiles/web-dev-simplified.jpg",
     },
     views: 40394,
     postedAt: new Date("2024-10-5"),
     duration: 683,
-    thumbnailUrl: "/public/thumbnails/How To Build Projects 100 Faster.jpg",
-    videoUrl: "/public/videos/How To Build Projects 100 Faster.mp4",
+    thumbnailUrl: "/thumbnails/How To Build Projects 100 Faster.jpg",
+    videoUrl: "/videos/How To Build Projects 100 Faster.mp4",
   },
   {
     //dled//https://www.youtube.com/watch?v=0S48TFrm4UE
@@ -234,14 +233,13 @@ const vidsUnsorted = [
     channel: {
       name: "Web Dev Simplified",
       id: "WebDevSimplified",
-      profileUrl: "/public/profiles/web-dev-simplified.jpg",
+      profileUrl: "/profiles/web-dev-simplified.jpg",
     },
     views: 59440,
     postedAt: new Date("2025-4-22"),
     duration: 1946,
-    thumbnailUrl:
-      "/public/thumbnails/Every Senior Developer Needs To Know This!.jpg",
-    videoUrl: "/public/videos/Every Senior Developer Needs To Know This!.mp4",
+    thumbnailUrl: "/thumbnails/Every Senior Developer Needs To Know This!.jpg",
+    videoUrl: "/videos/Every Senior Developer Needs To Know This!.mp4",
   },
   {
     //dled//https://www.youtube.com/watch?v=FhT87_CqPug
@@ -250,13 +248,13 @@ const vidsUnsorted = [
     channel: {
       name: "Web Dev Simplified",
       id: "WebDevSimplified",
-      profileUrl: "/public/profiles/web-dev-simplified.jpg",
+      profileUrl: "/profiles/web-dev-simplified.jpg",
     },
     views: 47709,
     postedAt: new Date("2024-7-2"),
     duration: 349,
-    thumbnailUrl: "/public/thumbnails/4 NEW TypeScript 5.5 Features!.jpg",
-    videoUrl: "/public/videos/4 NEW TypeScript 5.5 Features!.mp4",
+    thumbnailUrl: "/thumbnails/4 NEW TypeScript 5.5 Features!.jpg",
+    videoUrl: "/videos/4 NEW TypeScript 5.5 Features!.mp4",
   },
   {
     //?
@@ -266,13 +264,13 @@ const vidsUnsorted = [
     channel: {
       name: "Theo - t3․gg",
       id: "t3dotgg",
-      profileUrl: "/public/profiles/t3-gg.jpg",
+      profileUrl: "/profiles/t3-gg.jpg",
     },
     views: 32926,
     postedAt: new Date("2025-10-13"),
     duration: 4128,
-    thumbnailUrl: "/public/thumbnails/The Future of React.jpg",
-    videoUrl: "/public/videos/The Future of React.mp4",
+    thumbnailUrl: "/thumbnails/The Future of React.jpg",
+    videoUrl: "/videos/The Future of React.mp4",
   },
   {
     //dled//https://www.youtube.com/watch?v=3c4UyGRBnmM
@@ -281,13 +279,13 @@ const vidsUnsorted = [
     channel: {
       name: "Theo - t3․gg",
       id: "t3dotgg",
-      profileUrl: "/public/profiles/t3-gg.jpg",
+      profileUrl: "/profiles/t3-gg.jpg",
     },
     views: 76949,
     postedAt: new Date("2025-8-26"),
     duration: 2848,
-    thumbnailUrl: "/public/thumbnails/Breaking down my current tech stack.jpg",
-    videoUrl: "/public/videos/Breaking down my current tech stack.mp4",
+    thumbnailUrl: "/thumbnails/Breaking down my current tech stack.jpg",
+    videoUrl: "/videos/Breaking down my current tech stack.mp4",
   },
   {
     //https://www.youtube.com/watch?v=BQnLsQwWdpY
@@ -296,13 +294,13 @@ const vidsUnsorted = [
     channel: {
       name: "Theo - t3․gg",
       id: "t3dotgg",
-      profileUrl: "/public/profiles/t3-gg.jpg",
+      profileUrl: "/profiles/t3-gg.jpg",
     },
     views: 83102,
     postedAt: new Date("2025-1-17"),
     duration: 3717,
-    thumbnailUrl: "/public/thumbnails/Just Use HTML.jpg",
-    videoUrl: "/public/videos/Just Use HTML.mp4",
+    thumbnailUrl: "/thumbnails/Just Use HTML.jpg",
+    videoUrl: "/videos/Just Use HTML.mp4",
   },
   {
     //dled//https://www.youtube.com/watch?v=GADAQVy9mb8
@@ -311,14 +309,13 @@ const vidsUnsorted = [
     channel: {
       name: "ByteGrad",
       id: "ByteGrad",
-      profileUrl: "/public/profiles/byte-grad.jpg",
+      profileUrl: "/profiles/byte-grad.jpg",
     },
     views: 5077,
     postedAt: new Date("2025-3-20"),
     duration: 508,
-    thumbnailUrl:
-      "/public/thumbnails/AI-Scraping Is Getting Crazy Easy Now.jpg",
-    videoUrl: "/public/videos/AI-Scraping Is Getting Crazy Easy Now.mp4",
+    thumbnailUrl: "/thumbnails/AI-Scraping Is Getting Crazy Easy Now.jpg",
+    videoUrl: "/videos/AI-Scraping Is Getting Crazy Easy Now.mp4",
   },
   {
     //dled//https://www.youtube.com/watch?v=2VmUZPOXM-Y
@@ -327,15 +324,14 @@ const vidsUnsorted = [
     channel: {
       name: "ByteGrad",
       id: "ByteGrad",
-      profileUrl: "/public/profiles/byte-grad.jpg",
+      profileUrl: "/profiles/byte-grad.jpg",
     },
     views: 27104,
     postedAt: new Date("2024-11-13"),
     duration: 688,
     thumbnailUrl:
-      "/public/thumbnails/Self-Host Next.js 15 on VPS in 8 Minutes (EASY!).jpg",
-    videoUrl:
-      "/public/videos/Self-Host Next.js 15 on VPS in 8 Minutes (EASY!).mp4",
+      "/thumbnails/Self-Host Next.js 15 on VPS in 8 Minutes (EASY!).jpg",
+    videoUrl: "/videos/Self-Host Next.js 15 on VPS in 8 Minutes (EASY!).mp4",
   },
   {
     //dled//https://www.youtube.com/watch?v=ukpgxEemXsk
@@ -344,15 +340,15 @@ const vidsUnsorted = [
     channel: {
       name: "ByteGrad",
       id: "ByteGrad",
-      profileUrl: "/public/profiles/byte-grad.jpg",
+      profileUrl: "/profiles/byte-grad.jpg",
     },
     views: 249703,
     postedAt: new Date("2023-9-11"),
     duration: 1300,
     thumbnailUrl:
-      "/public/thumbnails/STOP using useState, instead put state in URL (in React & Next.js).jpg",
+      "/thumbnails/STOP using useState, instead put state in URL (in React & Next.js).jpg",
     videoUrl:
-      "/public/videos/STOP using useState, instead put state in URL (in React & Next.js).mp4",
+      "/videos/STOP using useState, instead put state in URL (in React & Next.js).mp4",
   },
   {
     //https://www.youtube.com/watch?v=VeNfHj6MhgA
@@ -361,13 +357,13 @@ const vidsUnsorted = [
     channel: {
       name: "Traversy Media",
       id: "TraversyMedia",
-      profileUrl: "/public/profiles/traversy-media.jpg",
+      profileUrl: "/profiles/traversy-media.jpg",
     },
     views: 507429,
     postedAt: new Date("2024-7-1"),
     duration: 10604,
-    thumbnailUrl: "/public/thumbnails/Vue.js Crash Course.jpg",
-    videoUrl: "/public/videos/Vue.js Crash Course.mp4",
+    thumbnailUrl: "/thumbnails/Vue.js Crash Course.jpg",
+    videoUrl: "/videos/Vue.js Crash Course.mp4",
   },
   {
     //dled//https://www.youtube.com/watch?v=OhU4yaNih2M
@@ -376,15 +372,14 @@ const vidsUnsorted = [
     channel: {
       name: "Traversy Media",
       id: "TraversyMedia",
-      profileUrl: "/public/profiles/traversy-media.jpg",
+      profileUrl: "/profiles/traversy-media.jpg",
     },
     views: 72206,
     postedAt: new Date("2024-7-11"),
     duration: 866,
     thumbnailUrl:
-      "/public/thumbnails/20 Browser Extensions For Web Design & Development.jpg",
-    videoUrl:
-      "/public/videos/20 Browser Extensions For Web Design & Development.mp4",
+      "/thumbnails/20 Browser Extensions For Web Design & Development.jpg",
+    videoUrl: "/videos/20 Browser Extensions For Web Design & Development.mp4",
   },
   {
     //dled//https://www.youtube.com/watch?v=ou6x2qcLOLI
@@ -393,13 +388,13 @@ const vidsUnsorted = [
     channel: {
       name: "Traversy Media",
       id: "TraversyMedia",
-      profileUrl: "/public/profiles/traversy-media.jpg",
+      profileUrl: "/profiles/traversy-media.jpg",
     },
     views: 51907,
     postedAt: new Date("2022-10-11"),
     duration: 483,
-    thumbnailUrl: "/public/thumbnails/Clean Code vs Preference.jpg",
-    videoUrl: "/public/videos/Clean Code vs Preference.mp4",
+    thumbnailUrl: "/thumbnails/Clean Code vs Preference.jpg",
+    videoUrl: "/videos/Clean Code vs Preference.mp4",
   },
 ];
 

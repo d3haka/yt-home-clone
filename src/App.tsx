@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { CategoryPills } from "./components/category-pills";
-import { categories, videos, vids } from "./data/home";
+import { categories, vids } from "./data/home";
 import { PageHeader } from "./layouts/page-header";
 import "./styles.css";
 import { VideoGridItem } from "./components/video-grid-item";

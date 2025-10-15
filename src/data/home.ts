@@ -149,7 +149,7 @@ export const videos = [
 
 const vidsUnsorted = [
   {
-    //https://www.youtube.com/watch?v=ZDFgJeQOn20
+    //dled//https://www.youtube.com/watch?v=ZDFgJeQOn20
     id: "1",
     title: "A CSS Trick to select a specific row with Grid auto-fit-fill",
     channel: {
@@ -166,7 +166,7 @@ const vidsUnsorted = [
       "/public/videos/A CSS Trick to select a specific row with Grid auto-fit-fill.mp4",
   },
   {
-    //https://www.youtube.com/watch?v=DGOeyJjq80g
+    //dled//https://www.youtube.com/watch?v=DGOeyJjq80g
     id: "2",
     title: "My top 5 most popular front-end tips",
     channel: {
@@ -181,7 +181,7 @@ const vidsUnsorted = [
     videoUrl: "/public/videos/My top 5 most popular front-end tips.mp4",
   },
   {
-    //https://www.youtube.com/watch?v=r1IitKbJRFE
+    //dled//https://www.youtube.com/watch?v=r1IitKbJRFE
     id: "3",
     title: "Two simple layouts that work better with Grid",
     channel: {
@@ -198,7 +198,7 @@ const vidsUnsorted = [
       "/public/videos/Two simple layouts that work better with Grid.mp4",
   },
   {
-    //https://www.youtube.com/watch?v=rGyGavlg6i4
+    //dled//https://www.youtube.com/watch?v=rGyGavlg6i4
     id: "4",
     title: "Most Developers Are Using AI Wrong",
     channel: {
@@ -213,7 +213,7 @@ const vidsUnsorted = [
     videoUrl: "/public/videos/Most Developers Are Using AI Wrong.mp4",
   },
   {
-    //https://www.youtube.com/watch?v=pjmMOyRlcUs
+    //dled//https://www.youtube.com/watch?v=pjmMOyRlcUs
     id: "10",
     title: "How To Build Projects 100% Faster",
     channel: {
@@ -225,10 +225,10 @@ const vidsUnsorted = [
     postedAt: new Date("2024-10-5"),
     duration: 683,
     thumbnailUrl: "/public/thumbnails/How To Build Projects 100 Faster.jpg",
-    videoUrl: "/public/videos/How To Build Projects 100% Faster.mp4",
+    videoUrl: "/public/videos/How To Build Projects 100 Faster.mp4",
   },
   {
-    //https://www.youtube.com/watch?v=0S48TFrm4UE
+    //dled//https://www.youtube.com/watch?v=0S48TFrm4UE
     id: "5",
     title: "Every Senior Developer Needs To Know This!",
     channel: {
@@ -244,7 +244,7 @@ const vidsUnsorted = [
     videoUrl: "/public/videos/Every Senior Developer Needs To Know This!.mp4",
   },
   {
-    //https://www.youtube.com/watch?v=FhT87_CqPug
+    //dled//https://www.youtube.com/watch?v=FhT87_CqPug
     id: "6",
     title: "4 NEW TypeScript 5.5 Features!",
     channel: {
@@ -274,7 +274,7 @@ const vidsUnsorted = [
     videoUrl: "/public/videos/The Future of React.mp4",
   },
   {
-    //https://www.youtube.com/watch?v=3c4UyGRBnmM
+    //dled//https://www.youtube.com/watch?v=3c4UyGRBnmM
     id: "8",
     title: "Breaking down my current tech stack",
     channel: {
@@ -304,7 +304,7 @@ const vidsUnsorted = [
     videoUrl: "/public/videos/Just Use HTML.mp4",
   },
   {
-    //https://www.youtube.com/watch?v=GADAQVy9mb8
+    //dled//https://www.youtube.com/watch?v=GADAQVy9mb8
     id: "11",
     title: "AI-Scraping Is Getting Crazy Easy Now",
     channel: {
@@ -320,7 +320,7 @@ const vidsUnsorted = [
     videoUrl: "/public/videos/AI-Scraping Is Getting Crazy Easy Now.mp4",
   },
   {
-    //https://www.youtube.com/watch?v=2VmUZPOXM-Y
+    //dled//https://www.youtube.com/watch?v=2VmUZPOXM-Y
     id: "12",
     title: "Self-Host Next.js 15 on VPS in 8 Minutes (EASY!)",
     channel: {
@@ -337,7 +337,7 @@ const vidsUnsorted = [
       "/public/videos/Self-Host Next.js 15 on VPS in 8 Minutes (EASY!).mp4",
   },
   {
-    //https://www.youtube.com/watch?v=ukpgxEemXsk
+    //dled//https://www.youtube.com/watch?v=ukpgxEemXsk
     id: "13",
     title: "STOP using useState, instead put state in URL (in React & Next.js)",
     channel: {
@@ -369,7 +369,7 @@ const vidsUnsorted = [
     videoUrl: "/public/videos/Vue.js Crash Course.mp4",
   },
   {
-    //https://www.youtube.com/watch?v=OhU4yaNih2M
+    //dled//https://www.youtube.com/watch?v=OhU4yaNih2M
     id: "15",
     title: "20 Browser Extensions For Web Design & Development",
     channel: {
@@ -386,7 +386,7 @@ const vidsUnsorted = [
       "/public/videos/20 Browser Extensions For Web Design & Development.mp4",
   },
   {
-    //https://www.youtube.com/watch?v=ou6x2qcLOLI
+    //dled//https://www.youtube.com/watch?v=ou6x2qcLOLI
     id: "16",
     title: "Clean Code vs Preference",
     channel: {

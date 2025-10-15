@@ -147,7 +147,7 @@ export const videos = [
   },
 ];
 
-export const vids = [
+const vidsUnsorted = [
   {
     //https://www.youtube.com/watch?v=ZDFgJeQOn20
     id: "1",
@@ -303,4 +303,105 @@ export const vids = [
     thumbnailUrl: "/public/thumbnails/Just Use HTML.jpg",
     videoUrl: "/public/videos/Just Use HTML.mp4",
   },
+  {
+    //https://www.youtube.com/watch?v=GADAQVy9mb8
+    id: "11",
+    title: "AI-Scraping Is Getting Crazy Easy Now",
+    channel: {
+      name: "ByteGrad",
+      id: "ByteGrad",
+      profileUrl: "/public/profiles/byte-grad.jpg",
+    },
+    views: 5077,
+    postedAt: new Date("2025-3-20"),
+    duration: 508,
+    thumbnailUrl:
+      "/public/thumbnails/AI-Scraping Is Getting Crazy Easy Now.jpg",
+    videoUrl: "/public/videos/AI-Scraping Is Getting Crazy Easy Now.mp4",
+  },
+  {
+    //https://www.youtube.com/watch?v=2VmUZPOXM-Y
+    id: "12",
+    title: "Self-Host Next.js 15 on VPS in 8 Minutes (EASY!)",
+    channel: {
+      name: "ByteGrad",
+      id: "ByteGrad",
+      profileUrl: "/public/profiles/byte-grad.jpg",
+    },
+    views: 27104,
+    postedAt: new Date("2024-11-13"),
+    duration: 688,
+    thumbnailUrl:
+      "/public/thumbnails/Self-Host Next.js 15 on VPS in 8 Minutes (EASY!).jpg",
+    videoUrl:
+      "/public/videos/Self-Host Next.js 15 on VPS in 8 Minutes (EASY!).mp4",
+  },
+  {
+    //https://www.youtube.com/watch?v=ukpgxEemXsk
+    id: "13",
+    title: "STOP using useState, instead put state in URL (in React & Next.js)",
+    channel: {
+      name: "ByteGrad",
+      id: "ByteGrad",
+      profileUrl: "/public/profiles/byte-grad.jpg",
+    },
+    views: 249703,
+    postedAt: new Date("2023-9-11"),
+    duration: 1300,
+    thumbnailUrl:
+      "/public/thumbnails/STOP using useState, instead put state in URL (in React & Next.js).jpg",
+    videoUrl:
+      "/public/videos/STOP using useState, instead put state in URL (in React & Next.js).mp4",
+  },
+  {
+    //https://www.youtube.com/watch?v=VeNfHj6MhgA
+    id: "14",
+    title: "Vue.js Crash Course",
+    channel: {
+      name: "Traversy Media",
+      id: "TraversyMedia",
+      profileUrl: "/public/profiles/traversy-media.jpg",
+    },
+    views: 507429,
+    postedAt: new Date("2024-7-1"),
+    duration: 10604,
+    thumbnailUrl: "/public/thumbnails/Vue.js Crash Course.jpg",
+    videoUrl: "/public/videos/Vue.js Crash Course.mp4",
+  },
+  {
+    //https://www.youtube.com/watch?v=OhU4yaNih2M
+    id: "15",
+    title: "20 Browser Extensions For Web Design & Development",
+    channel: {
+      name: "Traversy Media",
+      id: "TraversyMedia",
+      profileUrl: "/public/profiles/traversy-media.jpg",
+    },
+    views: 72206,
+    postedAt: new Date("2024-7-11"),
+    duration: 866,
+    thumbnailUrl:
+      "/public/thumbnails/20 Browser Extensions For Web Design & Development.jpg",
+    videoUrl:
+      "/public/videos/20 Browser Extensions For Web Design & Development.mp4",
+  },
+  {
+    //https://www.youtube.com/watch?v=ou6x2qcLOLI
+    id: "16",
+    title: "Clean Code vs Preference",
+    channel: {
+      name: "Traversy Media",
+      id: "TraversyMedia",
+      profileUrl: "/public/profiles/traversy-media.jpg",
+    },
+    views: 51907,
+    postedAt: new Date("2022-10-11"),
+    duration: 483,
+    thumbnailUrl: "/public/thumbnails/Clean Code vs Preference.jpg",
+    videoUrl: "/public/videos/Clean Code vs Preference.mp4",
+  },
 ];
+
+export const vids = vidsUnsorted.sort(
+  (a, b) => b.postedAt.getTime() - a.postedAt.getTime()
+);

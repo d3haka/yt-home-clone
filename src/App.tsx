@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { CategoryPills } from "./components/category-pills";
-import { categories, videos } from "./data/home";
+import { categories, videos, vids } from "./data/home";
 import { PageHeader } from "./layouts/page-header";
 import "./styles.css";
 import { VideoGridItem } from "./components/video-grid-item";
@@ -23,8 +23,8 @@ function App() {
             />
           </div>
           <div className="grid gap-4 grid-cols-[repeat(auto-fill,minmax(300px,1fr))]">
-            {videos.map((video) => (
-              <VideoGridItem key={video.id} {...video} />
+            {vids.map((vid) => (
+              <VideoGridItem key={vid.id} {...vid} />
             ))}
           </div>
         </div>

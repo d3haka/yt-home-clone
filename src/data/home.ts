@@ -146,3 +146,161 @@ export const videos = [
       "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
   },
 ];
+
+export const vids = [
+  {
+    //https://www.youtube.com/watch?v=ZDFgJeQOn20
+    id: "1",
+    title: "A CSS Trick to select a specific row with Grid auto-fit-fill",
+    channel: {
+      name: "Kevin Powell",
+      id: "KevinPowell",
+      profileUrl: "/public/profiles/kevin-powell.jpg",
+    },
+    views: 11829,
+    postedAt: new Date("2025-8-11"),
+    duration: 980,
+    thumbnailUrl:
+      "/public/thumbnails/A CSS Trick to select a specific row with Grid auto-fit-fill.jpg",
+    videoUrl:
+      "/public/videos/A CSS Trick to select a specific row with Grid auto-fit-fill.mp4",
+  },
+  {
+    //https://www.youtube.com/watch?v=DGOeyJjq80g
+    id: "2",
+    title: "My top 5 most popular front-end tips",
+    channel: {
+      name: "Kevin Powell",
+      id: "KevinPowell",
+      profileUrl: "/public/profiles/kevin-powell.jpg",
+    },
+    views: 85590,
+    postedAt: new Date("2024-10-22"),
+    duration: 1326,
+    thumbnailUrl: "/public/thumbnails/My top 5 most popular front-end tips.jpg",
+    videoUrl: "/public/videos/My top 5 most popular front-end tips.mp4",
+  },
+  {
+    //https://www.youtube.com/watch?v=r1IitKbJRFE
+    id: "3",
+    title: "Two simple layouts that work better with Grid",
+    channel: {
+      name: "Kevin Powell",
+      id: "KevinPowell",
+      profileUrl: "/public/profiles/kevin-powell.jpg",
+    },
+    views: 66727,
+    postedAt: new Date("2023-5-23"),
+    duration: 844,
+    thumbnailUrl:
+      "/public/thumbnails/Two simple layouts that work better with Grid.jpg",
+    videoUrl:
+      "/public/videos/Two simple layouts that work better with Grid.mp4",
+  },
+  {
+    //https://www.youtube.com/watch?v=rGyGavlg6i4
+    id: "4",
+    title: "Most Developers Are Using AI Wrong",
+    channel: {
+      name: "Web Dev Simplified",
+      id: "WebDevSimplified",
+      profileUrl: "/public/profiles/web-dev-simplified.jpg",
+    },
+    views: 38711,
+    postedAt: new Date("2025-9-23"),
+    duration: 613,
+    thumbnailUrl: "/public/thumbnails/Most Developers Are Using AI Wrong.jpg",
+    videoUrl: "/public/videos/Most Developers Are Using AI Wrong.mp4",
+  },
+  {
+    //https://www.youtube.com/watch?v=pjmMOyRlcUs
+    id: "10",
+    title: "How To Build Projects 100% Faster",
+    channel: {
+      name: "Web Dev Simplified",
+      id: "WebDevSimplified",
+      profileUrl: "/public/profiles/web-dev-simplified.jpg",
+    },
+    views: 40394,
+    postedAt: new Date("2024-10-5"),
+    duration: 683,
+    thumbnailUrl: "/public/thumbnails/How To Build Projects 100 Faster.jpg",
+    videoUrl: "/public/videos/How To Build Projects 100% Faster.mp4",
+  },
+  {
+    //https://www.youtube.com/watch?v=0S48TFrm4UE
+    id: "5",
+    title: "Every Senior Developer Needs To Know This!",
+    channel: {
+      name: "Web Dev Simplified",
+      id: "WebDevSimplified",
+      profileUrl: "/public/profiles/web-dev-simplified.jpg",
+    },
+    views: 59440,
+    postedAt: new Date("2025-4-22"),
+    duration: 1946,
+    thumbnailUrl:
+      "/public/thumbnails/Every Senior Developer Needs To Know This!.jpg",
+    videoUrl: "/public/videos/Every Senior Developer Needs To Know This!.mp4",
+  },
+  {
+    //https://www.youtube.com/watch?v=FhT87_CqPug
+    id: "6",
+    title: "4 NEW TypeScript 5.5 Features!",
+    channel: {
+      name: "Web Dev Simplified",
+      id: "WebDevSimplified",
+      profileUrl: "/public/profiles/web-dev-simplified.jpg",
+    },
+    views: 47709,
+    postedAt: new Date("2024-7-2"),
+    duration: 349,
+    thumbnailUrl: "/public/thumbnails/4 NEW TypeScript 5.5 Features!.jpg",
+    videoUrl: "/public/videos/4 NEW TypeScript 5.5 Features!.mp4",
+  },
+  {
+    //https://www.youtube.com/watch?v=d6Mk-3qh2O0
+    id: "7",
+    title: "The Future of React",
+    channel: {
+      name: "Theo - t3․gg",
+      id: "t3dotgg",
+      profileUrl: "/public/profiles/t3-gg.jpg",
+    },
+    views: 32926,
+    postedAt: new Date("2025-10-13"),
+    duration: 4128,
+    thumbnailUrl: "/public/thumbnails/The Future of React.jpg",
+    videoUrl: "/public/videos/The Future of React.mp4",
+  },
+  {
+    //https://www.youtube.com/watch?v=3c4UyGRBnmM
+    id: "8",
+    title: "Breaking down my current tech stack",
+    channel: {
+      name: "Theo - t3․gg",
+      id: "t3dotgg",
+      profileUrl: "/public/profiles/t3-gg.jpg",
+    },
+    views: 76949,
+    postedAt: new Date("2025-8-26"),
+    duration: 2848,
+    thumbnailUrl: "/public/thumbnails/Breaking down my current tech stack.jpg",
+    videoUrl: "/public/videos/Breaking down my current tech stack.mp4",
+  },
+  {
+    //https://www.youtube.com/watch?v=BQnLsQwWdpY
+    id: "9",
+    title: "Just Use HTML",
+    channel: {
+      name: "Theo - t3․gg",
+      id: "t3dotgg",
+      profileUrl: "/public/profiles/t3-gg.jpg",
+    },
+    views: 83102,
+    postedAt: new Date("2025-1-17"),
+    duration: 3717,
+    thumbnailUrl: "/public/thumbnails/Just Use HTML.jpg",
+    videoUrl: "/public/videos/Just Use HTML.mp4",
+  },
+];

@@ -37,6 +37,34 @@ export const subscriptions = [
   },
 ];
 
+export const subs = [
+  {
+    channelName: "Kevin Powell",
+    id: "KevinPowell",
+    imgUrl: "/profiles/kevin-powell.jpg",
+  },
+  {
+    channelName: "Web Dev Simplified",
+    id: "WebDevSimplified",
+    imgUrl: "/profiles/web-dev-simplified.jpg",
+  },
+  {
+    channelName: "Theo - t3․gg",
+    id: "t3dotgg",
+    imgUrl: "/profiles/t3-gg.jpg",
+  },
+  {
+    channelName: "ByteGrad",
+    id: "ByteGrad",
+    imgUrl: "/profiles/byte-grad.jpg",
+  },
+  {
+    channelName: "Traversy Media",
+    id: "TraversyMedia",
+    imgUrl: "/profiles/traversy-media.jpg",
+  },
+];
+
 export const playlists = [
   { id: "1", name: "Frontend & Backend" },
   { id: "2", name: "Favorites" },

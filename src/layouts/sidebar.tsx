@@ -24,7 +24,7 @@ import {
 import { Children, useState, type ElementType, type ReactNode } from "react";
 import { Button, buttonStyle } from "../components/button";
 import { twMerge } from "tailwind-merge";
-import { playlists, subscriptions } from "../data/sidebar";
+import { playlists, subs as subscriptions } from "../data/sidebar";
 import { useSidebarContext } from "../contexts/SidebarContext";
 import { PageHeaderFirstSection } from "./page-header";
 

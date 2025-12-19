@@ -1,4 +1,3 @@
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
 const LEADING_ZERO_FORMATTER = new Intl.NumberFormat(undefined, {
   minimumIntegerDigits: 2,
 });
